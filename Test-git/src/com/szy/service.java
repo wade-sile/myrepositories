@@ -1,8 +1,7 @@
 package com.szy;
 
-public interface service {
-	void m();
-	void m2();
-	void m3();
-	void m4();
+public class service {
+	public static void main(String[] args) {
+		System.out.println("1");
+	}
 }
